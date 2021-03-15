@@ -1,5 +1,5 @@
 
-fn_o = 'C:\Users\faust\Pessoal\2020-2\ProcessamentoSinaisBiomedicos\data\f2o04m';
+fn_o = 'C:\Users\faust\Pessoal\2020-2\ProcessamentoSinaisBiomedicos\data\f2o04m'; 
 fn_y = 'C:\Users\faust\Pessoal\2020-2\ProcessamentoSinaisBiomedicos\data\f2y04m';
 
 [x,fs,ecg,resp] = get5min(fn_o);
